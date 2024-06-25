@@ -139,6 +139,7 @@
     <Compile Include="VsTheme.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ast-visual-studio-extension.vsix" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
